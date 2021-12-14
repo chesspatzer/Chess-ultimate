@@ -15,6 +15,7 @@ Short version : https://www.youtube.com/watch?v=gKXkhpWSJug
 
 ## Installation
 
+To run the application, go to BoardComponent Class and click on run
 
 To have the aws connection work, you need to have the mysql-connector-java-8.0.25 file in your JAR dependencies.
 
